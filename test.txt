@@ -6,5 +6,9 @@ Unit Testing
 Regresstion Testing
 Funtional Testing
 
+Business Testing
+Technical Testing
+
 Thanks & Regards
 
+Done with Changes.
