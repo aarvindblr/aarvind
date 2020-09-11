@@ -2,3 +2,4 @@ Welcome to test document
 It will give you info on testing planned for project.
 List of Testing:
 Unit Testing
+Regresstion Testing
